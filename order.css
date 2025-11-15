@@ -1,0 +1,23 @@
+table{
+    height: 430px;
+}
+input{
+    width: 100%;
+    height: 60%;
+    border: 2px solid green;
+    font-size: 18px;
+}
+textarea{
+    width: 100%;
+    height: 60%;
+    border: 2px solid green;
+}
+select{
+    width: 100%;
+    height: 60%;
+    border: 2px solid green;
+}
+input[type="button"]:hover{
+    background-color: green;
+    color: white;
+}
